@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tags test","This test verifies error code 400 when user tries to access invalid resource","FAILURE","12:44:29","0.0","6.96"
+"Tags test","Provide a 405 Statuscode when incorrec Http method is used to acess resource","SUCCESS","12:44:37","0.0","0.69"
